@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\tyler\\source\\repos\\FriendlyFalcons_Assignment09\\FriendlyFalcons_Assignment09\\FriendlyFalcons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFA8F510-AD4F-4700-9A26-19B75CF31C19}|FriendlyFalcons\\FriendlyFalcons.pyproj|C:\\Users\\tyler\\source\\repos\\FriendlyFalcons_Assignment09\\FriendlyFalcons_Assignment09\\FriendlyFalcons\\FriendlyFalcons\\logicPackage\\logic.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{CFA8F510-AD4F-4700-9A26-19B75CF31C19}|FriendlyFalcons\\FriendlyFalcons.pyproj|solutionrelative:FriendlyFalcons\\logicPackage\\logic.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{CFA8F510-AD4F-4700-9A26-19B75CF31C19}|FriendlyFalcons\\FriendlyFalcons.pyproj|C:\\Users\\tyler\\source\\repos\\FriendlyFalcons_Assignment09\\FriendlyFalcons_Assignment09\\FriendlyFalcons\\FriendlyFalcons\\mainPackage\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFA8F510-AD4F-4700-9A26-19B75CF31C19}|FriendlyFalcons\\FriendlyFalcons.pyproj|solutionrelative:FriendlyFalcons\\mainPackage\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFA8F510-AD4F-4700-9A26-19B75CF31C19}|FriendlyFalcons\\FriendlyFalcons.pyproj|C:\\Users\\tyler\\Source\\Repos\\FriendlyFalcons_Assignment09\\FriendlyFalcons_Assignment09\\FriendlyFalcons\\FriendlyFalcons\\mainPackage\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{CFA8F510-AD4F-4700-9A26-19B75CF31C19}|FriendlyFalcons\\FriendlyFalcons.pyproj|solutionrelative:FriendlyFalcons\\mainPackage\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{CFA8F510-AD4F-4700-9A26-19B75CF31C19}|FriendlyFalcons\\FriendlyFalcons.pyproj|C:\\Users\\tyler\\Source\\Repos\\FriendlyFalcons_Assignment09\\FriendlyFalcons_Assignment09\\FriendlyFalcons\\FriendlyFalcons\\logicPackage\\logic.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFA8F510-AD4F-4700-9A26-19B75CF31C19}|FriendlyFalcons\\FriendlyFalcons.pyproj|solutionrelative:FriendlyFalcons\\logicPackage\\logic.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFA8F510-AD4F-4700-9A26-19B75CF31C19}|FriendlyFalcons\\FriendlyFalcons.pyproj|C:\\Users\\tyler\\source\\repos\\FriendlyFalcons_Assignment09\\FriendlyFalcons_Assignment09\\FriendlyFalcons\\FriendlyFalcons\\databasePackage\\queries.py||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.py",
               "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\FriendlyFalcons_Assignment09\\FriendlyFalcons_Assignment09\\FriendlyFalcons\\FriendlyFalcons\\mainPackage\\main.py",
               "RelativeDocumentMoniker": "FriendlyFalcons\\mainPackage\\main.py",
@@ -48,13 +48,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "logic.py",
               "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\FriendlyFalcons_Assignment09\\FriendlyFalcons_Assignment09\\FriendlyFalcons\\FriendlyFalcons\\logicPackage\\logic.py",
               "RelativeDocumentMoniker": "FriendlyFalcons\\logicPackage\\logic.py",
               "ToolTip": "C:\\Users\\tyler\\source\\repos\\FriendlyFalcons_Assignment09\\FriendlyFalcons_Assignment09\\FriendlyFalcons\\FriendlyFalcons\\logicPackage\\logic.py",
               "RelativeToolTip": "FriendlyFalcons\\logicPackage\\logic.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-04-01T18:04:39.693Z",
               "EditorCaption": ""
@@ -67,9 +67,10 @@
               "RelativeDocumentMoniker": "FriendlyFalcons\\databasePackage\\queries.py",
               "ToolTip": "C:\\Users\\tyler\\source\\repos\\FriendlyFalcons_Assignment09\\FriendlyFalcons_Assignment09\\FriendlyFalcons\\FriendlyFalcons\\databasePackage\\queries.py",
               "RelativeToolTip": "FriendlyFalcons\\databasePackage\\queries.py",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvyYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-04-01T18:04:38.159Z"
+              "WhenOpened": "2025-04-01T18:04:38.159Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -81,7 +82,8 @@
               "RelativeToolTip": "FriendlyFalcons\\databasePackage\\connector.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-04-01T18:04:33.715Z"
+              "WhenOpened": "2025-04-01T18:04:33.715Z",
+              "EditorCaption": ""
             }
           ]
         }

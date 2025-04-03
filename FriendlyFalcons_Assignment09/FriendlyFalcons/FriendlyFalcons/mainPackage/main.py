@@ -30,20 +30,20 @@ if __name__ == "__main__":
     manufacturer = get_manufacturer_name(manufacturer_id)
 
     # Output
-    print("Step 1-4 complete below team (remove this later):")
-    print(f"Description: {description}")
-    print(f"Product ID: {product_id}")
-    print(f"Manufacturer ID: {manufacturer_id}")
-    print(f"Manufacturer Name: {manufacturer}")
+    #print("Step 1-4 complete below team (remove this later):")
+    #print(f"Description: {description}")
+    #print(f"Product ID: {product_id}")
+    #print(f"Manufacturer ID: {manufacturer_id}")
+    #print(f"Manufacturer Name: {manufacturer}")
 
     brand = get_brand_name(brand_id)
 
-    print(f"\nBRAND (Step 5):\n")
-    print(f"Brand ID: {brand_id}")
-    print(f"Brand Name: {brand}")
+    #print(f"\nBRAND (Step 5):\n")
+    #print(f"Brand ID: {brand_id}")
+    #print(f"Brand Name: {brand}")
 
     query_sales = product_sales(product_id)
-    print(f"{brand} \n\nSales (Step 6): {query_sales}")
+    #print(f"{brand} \n\nSales (Step 6): {query_sales}")
 
     sentence = build_sentence(description, manufacturer, brand, query_sales)
     print(sentence)

@@ -11,4 +11,7 @@
 # Anything else that's relevant: 
 
 def build_sentence(description, manufacturer, brand, query_sales):
+    """
+    Makes a sentence about a product using description, manufacturer, brand, and its units sold
+    """
     return f"The product \"{description}\" by {manufacturer}, under the {brand} brand, has sold {query_sales} units."
